@@ -1,4 +1,4 @@
-# JEV Optimize
+# JEV Caveman Token Optimizer
 
 Portable AI-agent inference optimizer: **bypass -> JEV route -> cost gate -> Caveman -> LLM -> telemetry**.
 
