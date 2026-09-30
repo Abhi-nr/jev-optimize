@@ -1,0 +1,1 @@
+{"name":"jev-optimize","description":"AI-agent inference optimization using JEV routing and optional Caveman context compression.","version":"0.1.0","author":{"name":"JEV Optimize contributors"},"license":"MIT","keywords":["ai","routing","llm","mcp","optimization"]}

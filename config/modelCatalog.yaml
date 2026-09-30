@@ -1,0 +1,20 @@
+tiers:
+  fast:
+    - provider: openrouter
+      model: gpt-4o-mini
+      max_context: 128000
+      cost_tier: low
+  balanced:
+    - provider: openrouter
+      model: claude-3-5-sonnet
+      max_context: 200000
+      cost_tier: medium
+  strong:
+    - provider: openrouter
+      model: o1
+      max_context: 200000
+      cost_tier: high
+
+defaults:
+  tier: balanced
+  fallback_tier: fast
